@@ -11,7 +11,7 @@ N/A, this webpage is hosted on github pages.
 ## Usage
 
 Link to deployed site:
-
+https://isahern.github.io/Horiseon-Webpage/
 
 ## Credits
 
